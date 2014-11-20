@@ -8,6 +8,7 @@ This is a place for us to stash css and have it under revision control.
 .logo {
   float:none;
   text-align:center;
+  margin: 0 auto;
   
 }
 #facebook_h { display:none; }
@@ -35,7 +36,7 @@ This is a place for us to stash css and have it under revision control.
         background:none;
         }
 
-@media (min-width: 480px) {
+@media (min-width: 768px) {
 .logo {
   float:left;
   text-align:center;
