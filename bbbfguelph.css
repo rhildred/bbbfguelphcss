@@ -32,8 +32,8 @@ This is a place for us to stash css and have it under revision control.
 .logo {
   float:none;
   text-align:center;
-  width:1.48in;
-  height:2in;
+  width:1.48px;
+  height:2px;
 }
 #facebook_h { display:none; }
 #twitter_h { display:none; }
