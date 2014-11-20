@@ -57,6 +57,11 @@ This is a place for us to stash css and have it under revision control.
 @media (min-width: 1200px) {
   #twitter_h{
     margin-top: 65px;
+    float:right;
+  }
+  #facebook_h{
+    margin-top: 65px;
+    float:right;
   }
 }
 
