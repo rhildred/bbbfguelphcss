@@ -64,4 +64,8 @@ This is a place for us to stash css and have it under revision control.
     float:right;
   }
 }
-
+media="all"
+@media (max-width: 480px)
+.slider {
+display: block; 
+}
