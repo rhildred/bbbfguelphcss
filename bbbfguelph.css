@@ -81,3 +81,8 @@ body{
 .sf-menu>li>a, h1 {
   color:#4520FF;
 }
+
+.recent-posts.services li h5 a
+{
+  color:#553AFF;
+}
