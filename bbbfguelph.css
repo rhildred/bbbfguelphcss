@@ -82,7 +82,7 @@ body{
   color:#4520FF;
 }
 
-.recent-posts.services li h5 a
+.recent-posts.services li h5 a, .slider .camera .camera_target_content .camera_caption
 {
   color:#553AFF;
 }
