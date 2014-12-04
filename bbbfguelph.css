@@ -90,3 +90,9 @@ body{
 .recent-posts li .meta{
   color:#E86312;
 }
+
+#topnav li.current-menu-item>a, #topnav li.sfHover>a, #topnav li a:hover{
+  color: white;
+  background: #555CFF;
+  
+}
