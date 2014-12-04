@@ -78,6 +78,6 @@ body{
   line-height:24px;
 }
 
-.sf-menu>li>a {
+.sf-menu>li>a, h1 {
   color:#4520FF;
 }
