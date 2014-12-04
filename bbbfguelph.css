@@ -91,7 +91,7 @@ body{
   color:#E86312;
 }
 
-#topnav li.current-menu-item>a, #topnav li.sfHover>a, #topnav li a:hover, .slider .btn{
+#topnav li.current-menu-item>a, #topnav li.sfHover>a, #topnav li a:hover, .slider .btn, .btn.type2{
   color: white;
   background: #555CFF;
 }
