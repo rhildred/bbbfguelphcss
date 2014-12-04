@@ -73,4 +73,7 @@ display: block;
 
 body{
   background:#0099ff;
+  color:black;
+  font-size:14px;
+  line-height:20px;
 }
